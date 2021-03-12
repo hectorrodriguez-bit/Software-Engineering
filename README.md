@@ -1,2 +1,2 @@
 # Software-Engineering
-GUI Project Software Engineering
+Software Engineering Projects
